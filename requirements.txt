@@ -1,0 +1,15 @@
+streamlit
+rembg
+pillow
+onnxruntime
+langchain-groq
+python-dotenv
+opencv-contrib-python
+numpy
+torch
+torchvision
+diffusers
+transformers
+accelerate
+replicate
+reportlab
