@@ -133,10 +133,10 @@ A compatible GPU may improve local diffusion performance, but CPU execution can 
 
 ### 1. Clone the Repository
 
-Replace `your-username` with your GitHub username.
+Replace `AsyncCoder-10` with your GitHub username.
 
 ```bash
-git clone https://github.com/your-username/ai-passport-studio.git
+git clone https://github.com/AsyncCoder-10/ai-passport-studio.git
 cd ai-passport-studio
 ```
 
